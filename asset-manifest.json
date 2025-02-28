@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MK-portfolio-react/static/css/main.cddbadd0.css",
+    "main.js": "/MK-portfolio-react/static/js/main.d8036424.js",
+    "static/media/banner2.gif": "/MK-portfolio-react/static/media/banner2.17191e0a3269771f3f85.gif",
+    "static/media/portfolio.gif": "/MK-portfolio-react/static/media/portfolio.b047e745ef7efae21b05.gif",
+    "static/media/Mail.gif": "/MK-portfolio-react/static/media/Mail.59d7938c672ccb14ca20.gif",
+    "static/media/profilecard.PNG": "/MK-portfolio-react/static/media/profilecard.2822672b45adee6a3de3.PNG",
+    "static/media/weather.PNG": "/MK-portfolio-react/static/media/weather.69b5263e6ecf6c50cd7d.PNG",
+    "static/media/news.jpeg": "/MK-portfolio-react/static/media/news.3b1126096d6908c333c1.jpeg",
+    "static/media/logo.png": "/MK-portfolio-react/static/media/logo.d9b42c14516834d57f6f.png",
+    "static/media/IOT.jpg": "/MK-portfolio-react/static/media/IOT.e6c5dca5984eded6daf7.jpg",
+    "index.html": "/MK-portfolio-react/index.html",
+    "main.cddbadd0.css.map": "/MK-portfolio-react/static/css/main.cddbadd0.css.map",
+    "main.d8036424.js.map": "/MK-portfolio-react/static/js/main.d8036424.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cddbadd0.css",
+    "static/js/main.d8036424.js"
+  ]
+}
