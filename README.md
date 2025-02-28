@@ -59,6 +59,4 @@ You can deploy the project using platforms like:
 
 If you’d like to reach out, feel free to use the contact form on my site or connect via [LinkedIn](https://www.linkedin.com/in/mukesh-kannan-k).
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
