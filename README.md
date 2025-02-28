@@ -18,7 +18,8 @@ Welcome to my personal portfolio built with React.js and Tailwind CSS! 🚀
 ## Live Demo
 
 Check out the live version of my portfolio here:  
-🔗 [Live Demo](https://mk-myportfolio.netlify.app)
+🔗 [Netlify](https://mk-myportfolio.netlify.app)
+🔗 [GitHub](https://mukeshkannan02.github.io/MK-portfolio-react/)
 
 ## Screenshots
 
